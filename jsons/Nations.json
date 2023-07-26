@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Alchembrew",
-		"leaderName": "Zephyr Maelstrom",
-		"adjective": ["Alchembrewian"],
-		"startBias": ["Grassland,Coast"],
+		"name": "United Nations of Europe",
+		"leaderName": "Sebastian Warzynak",
+		"adjective": ["European"],
+		"startBias": ["Grassland","Coast","Mountain"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hello, Mr. President.",
-		"startIntroPart2": "You, President Zephyr Xavier Maelstrom, are the leader of the Republic of the Rising Star, the mighty Alchembrew.  After winning independence from Germany, you must now lead your nation to prosperity!"
+		"startIntroPart2": "You, President Sebastian Warzynak, are the leader of the mighty UNE.  After unifying all of europe except Ukraine, Belarus, the Balkns, the Baltic States, Moldova, Romania, Bulgaria, and Greece, you must now lead your nation to prosperity!"
 		
-		"declaringWar": "You have crossed Alchembrew one too many times. Now, prepare to be destroyed like the you have. never seen before",
+		"declaringWar": "You have crossed my empire one too many times. Now, prepare to be destroyed like the you have. never seen before",
 		"attacked": "Your army fighting my army is like bringing a knife to a gunfight. After we win the war, you will be exiled, and forced to live away from any civilization, as an outcast."
-		"defeated": "We may have fallen, but the Aether will still crush you.",
+		"defeated": "We may have fallen, but the Union will still crush you.",
 		"introduction": "Hello. You have three options. Stand with us, stand against us, or get the hell out of our way. Your choice.",
 		
 		"neutralHello": "How are you doing?",
@@ -27,9 +27,9 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [0,71,171],
-		"innerColor": [220,20,60],
+		"outerColor": [75,83,32],
+		"innerColor": [104,71,141],
 		"unique": "Starts with [Mobile Tactics]",
-		"cities": ["Alchembrew","Dryden","Milwaukee","New Viridia","Westport","Valour Port","New Amsterdam","New Rotterdam","New Fresno", "New Kennewick", "New Astana"]
+		"cities": ["Stockholm","Danzig","Copenhagen","Berlin","Bern","Venice","Cologne","Luxembourg","Marseille","Orleans","Madrid","Lisbon"]
 	}
 ]
